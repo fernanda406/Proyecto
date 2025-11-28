@@ -1,0 +1,5 @@
+ID_Producto,Nombre,Descripcion,Precio,Categoria,Tiempo_Preparacion,Disponible
+1,Taco de Harina,Taco al vapor con tortilla de harina,20,Tacos,5,TRUE
+2,Horchata,Bebida tradicional de arroz,15,Bebidas,2,TRUE
+3,Taco de Maíz,Taco al vapor con tortilla de maíz,18,Tacos,5,TRUE
+4,Paquete Fiesta,20 tacos + 2 litros de horchata,350,Paquetes,30,TRUE

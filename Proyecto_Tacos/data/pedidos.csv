@@ -1,0 +1,4 @@
+ID_Pedido,ID_Cliente,Fecha_Pedido,Tipo_Pedido,Estado_Pedido,Total,Metodo_Pago
+1,1,2025-11-20 13:00:00,Tradicional,Entregado,60,Efectivo
+2,2,2025-11-22 18:00:00,Evento,Confirmado,350,Tarjeta
+3,3,2025-11-25 12:30:00,Autoservicio,Listo,20,Transferencia

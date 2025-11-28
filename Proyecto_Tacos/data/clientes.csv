@@ -1,0 +1,4 @@
+ID_Cliente,Nombre,Telefono,Email,Direccion,Fecha_Registro,Tipo_Cliente
+1,Juan Pérez,6681234567,juanperez@gmail.com,Calle Hidalgo #123,2025-01-10,Regular
+2,Ana López,6689876543,,Av. Juárez #45,2025-02-05,Evento
+3,Carlos Ruiz,6685554321,carlosruiz@hotmail.com,Calle Morelos #67,2025-03-01,VIP

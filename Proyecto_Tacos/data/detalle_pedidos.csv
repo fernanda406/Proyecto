@@ -1,0 +1,4 @@
+ID_Detalle,ID_Pedido,ID_Producto,Cantidad,Subtotal
+1,1,1,3,60
+2,2,4,1,350
+3,3,1,1,20

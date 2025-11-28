@@ -1,0 +1,2 @@
+ID_Evento,ID_Cliente,ID_Pedido,Tipo_Evento,Fecha_Evento,Numero_Personas,Direccion_Evento,Estado_Evento
+1,2,2,Fiesta,2025-12-05,50,Av. Juárez #45,Confirmado

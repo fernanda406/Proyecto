@@ -1,0 +1,5 @@
+ID_Inventario,ID_Producto,Stock_Actual,Stock_Minimo,Ultima_Actualizacion,Costo_Unitario,Proveedor
+1,1,200,50,2025-11-28 12:00:00,10,Proveedor Tortillas
+2,2,100,30,2025-11-28 12:00:00,7,Proveedor Bebidas
+3,3,150,40,2025-11-28 12:00:00,9,Proveedor Tortillas
+4,4,20,5,2025-11-28 12:00:00,200,Proveedor Eventos
